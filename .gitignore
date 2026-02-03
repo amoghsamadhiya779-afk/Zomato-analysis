@@ -1,5 +1,5 @@
-venv/
-data/
+venv/data/
 models/*.h5
 models/*.pkl
+src/train_dl.py
 __pycache__/
